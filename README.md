@@ -56,7 +56,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://afrith-portfolio-api.vercel.app/)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/andyfrith/portfolio-admin)
 
 Next.js is "The React Framework for the Web" and perfect for building a UI admin tool. TanStack Query provides the best API (REST) interface client library. Shadcn provides excellent components. TailwindCSS makes styling with CSS a breeze.
 
@@ -114,19 +114,6 @@ See the [open issues](https://github.com/andyfrith/portfolio-admin/issues) for a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ### Top contributors:
 
 <a href="https://github.com/andyfrith/portfolio-admin/graphs/contributors">
@@ -145,7 +132,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 Andy Frith - [LinkedIn](https://www.linkedin.com/in/goodapplemedia/) - afrith.denver.usa@gmail.com
 
-Project Link: [https://github.com/andyfrith/portfolio-api](https://www.linkedin.com/in/goodapplemedia/)
+Project Link: [https://github.com/andyfrith/portfolio-admin](https://www.linkedin.com/in/goodapplemedia/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
