@@ -16,17 +16,11 @@
   <h3 align="center">Portfolio Admin</h3>
 
   <p align="center">
-    This frontend application is used for administration of the content presented in the portfolio website for Andy Frith.  The application is engineered with Next.js 15, React v19 and TanStack Query v5. The API service, portolio-api (built with the Hono Javascript framework) provides an interface to a PostgreSQL database.
+    This frontend application is used for administration of the content presented in the portfolio website for Andy Frith.  The application is engineered with Next.js 15, React v19 and TanStack Query v5. The API service, portolio-api (built with the Hono Javascript framework) provides an interface to a PostgreSQL database.  Currently, this demo application is not publicly available.  Future enhancements may inclue security and authorizations features.
     <br />
     <a href="https://github.com/andyfrith/portfolio-admin"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/andyfrith/portfolio-admin">View Demo</a>
-    ·
-    <a href="https://github.com/andyfrith/portfolio-admin/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/andyfrith/portfolio-admin/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
+    
 </div>
 
 <details>
@@ -82,24 +76,17 @@ Next.js is "The React Framework for the Web" and perfect for building a UI admin
 
 ### Prerequisites
 
+This application requires acesss to the <a href="https://github.com/andyfrith/portfolio-admin">portfolio-api</a> service.
+
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/andyfrith/portfolio-admin.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Run the dev script
-   ```sh
-   npm run dev
-   ```
+This application is not publicly available. Currently, it is not meant to be installed and used by anyone other than the author.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
+
+Currently, this application is not meant to be installed and used by anyone other than the author.
 
 _For more examples, please refer to the imaginary [Documentation](https://example.com)_
 
@@ -107,10 +94,8 @@ _For more examples, please refer to the imaginary [Documentation](https://exampl
 
 ## Roadmap
 
-- [x] Add improved README file.
-- [x] Deploy to Vercel.
-
-See the [open issues](https://github.com/andyfrith/portfolio-admin/issues) for a full list of proposed features (and known issues).
+- [] Add security and authorizations features.
+- [] Deploy to pulicly available location.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

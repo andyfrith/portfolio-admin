@@ -24,7 +24,8 @@ export function SuperstarCard({
   showDelete?: boolean;
 }) {
   return (
-    <Card className="card w-[450px]">
+    <Card className="card w-full">
+      {/* w-[450px] */}
       <CardHeader>
         <CardTitle>{superstar.fullName}</CardTitle>
       </CardHeader>

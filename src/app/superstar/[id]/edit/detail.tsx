@@ -43,7 +43,7 @@ export default function SuperstarDetail({ id }: { id: number }) {
 
   if (data) {
     return (
-      <Card className="w-[550px]">
+      <Card className="w-full">
         <CardHeader>
           <CardTitle>Update Superstar</CardTitle>
         </CardHeader>

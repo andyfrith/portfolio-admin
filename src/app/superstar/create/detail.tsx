@@ -39,7 +39,7 @@ export default function SuperstarDetail() {
   }
 
   return (
-    <Card className="card w-[550px]">
+    <Card className="card w-full">
       <CardHeader>
         <CardTitle>Create Superstar</CardTitle>
       </CardHeader>

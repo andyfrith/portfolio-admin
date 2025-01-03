@@ -3,7 +3,6 @@
 import * as React from "react";
 import { useGetSuperstars } from "@/app/data/useGetSuperstars";
 import { SuperstarCard } from "../card";
-import Footer from "@/app/components/footer";
 import { AlertDestructive } from "@/app/components/alert-destructive";
 import Hero from "@/app/components/hero";
 import { AlertNormal } from "@/app/components/alert-normal";
@@ -26,8 +25,8 @@ export default function SuperstarList() {
 
   if (data) {
     return (
-      <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-poppins-sans)]">
-        <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
+      <div className="grid grid-rows-[0px_1fr_0px] items-center justify-items-center pb-4 sm:p-4 font-[family-name:var(--font-poppins-sans)]">
+        <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start w-full">
           {data.map((star) => {
             return (
               <SuperstarCard
@@ -39,7 +38,6 @@ export default function SuperstarList() {
             );
           })}
         </main>
-        <Footer />
       </div>
     );
   }

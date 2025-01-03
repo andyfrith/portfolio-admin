@@ -179,6 +179,7 @@ export default function SuperstarForm({
             </FormItem>
           )}
         />
+        <Button className="mr-2">{superstar ? "Reset" : "Clear"}</Button>
         <Button type="submit">
           {isPending ? "Loading..." : superstar ? "Update" : "Create"}
         </Button>
